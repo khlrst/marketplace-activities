@@ -1,1 +1,1 @@
-# xchain-marketplaces-activity
+# marketplace-activities
